@@ -1,0 +1,8 @@
+# ignore all logs
+*.log
+
+# dependencies
+/node_modules
+
+# config info
+/config
